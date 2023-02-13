@@ -1,0 +1,6 @@
+torchvision 
+transformers
+datasets
+evaluate
+rouge-score 
+nltk
